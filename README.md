@@ -22,9 +22,9 @@
 
 | Project | Nonprofit Type | Team Size | Delivery Status |
 |---|---|---|---|
-| Project 1 | Abundant Well Foundation | 3 volunteers | On Time |
-| Project 2 | Just One Africa | 4 volunteers | On Time |
-| Project 3 | [Nonprofit Name] | [X] volunteers | On Time |
+| Project 1 | Just One Africa | 3 volunteers | On Time |
+| Project 2 | Digital Data Insights | 4 volunteers | On Time |
+| Project 3 | Abundant Well Foundation | 4 volunteers | On Time |
 | Project 4 | [Nonprofit Name] | [X] volunteers | On Time |
 | Project 5 | [Nonprofit Name] | [X] volunteers | On Time |
 
