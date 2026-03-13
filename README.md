@@ -22,10 +22,10 @@
 
 | Project | Nonprofit Type | Team Size | Delivery Status |
 |---|---|---|---|
-| Project 1 | [Just One Africa] | [7] volunteers | On Time |
-| Project 2 | [Digital Data Insights] | [6] volunteers | On Time |
-| Project 3 | [Abundant Well Foundation] | [8] volunteers | On Time |
-| Project 4 | [Nonprofit Name] | [X] volunteers | On Time |
+| Project 1 | Just One Africa | 7 volunteers | On Time |
+| Project 2 | Digital Data Insights | 6 volunteers | On Time |
+| Project 3 | Abundant Well Foundation | 8 volunteers | On Time |
+| Project 4 | Amana Academy PTO | 6 volunteers | On Time |
 | Project 5 | [Nonprofit Name] | [X] volunteers | On Time |
 
 ---
