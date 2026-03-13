@@ -26,7 +26,7 @@
 | Project 2 | Digital Data Insights | 6 volunteers | On Time |
 | Project 3 | Abundant Well Foundation | 8 volunteers | On Time |
 | Project 4 | Amana Academy PTO | 6 volunteers | On Time |
-| Project 5 | [Nonprofit Name] | [X] volunteers | On Time |
+| Project 5 | Know More | 5 volunteers | On Time |
 
 ---
 
