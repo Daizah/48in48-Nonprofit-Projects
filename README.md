@@ -57,4 +57,4 @@ project-name/
 
 ## Templates Used
 
-See the [PM Templates Toolkit]([https://github.com/daizah/pm-templates-toolkit)for the reusable documents used across these projects.
+See the [PM Templates Toolkit]([https://github.com/daizah/pm-templates-toolkit) for the reusable documents used across these projects.
