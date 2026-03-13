@@ -11,7 +11,7 @@
 48in48 builds 48 nonprofit websites in 48 hours, pairing volunteers with nonprofits in need of a digital presence. As a Project Manager, I lead cross-functional teams of designers, developers, and content writers through rapid Agile sprints to deliver fully functional websites on time.
 
 **Key Results:**
-- 5 website launches completed with 100% on-time delivery
+- 7 website launches completed with 100% on-time delivery
 - Managed teams of 4-8 volunteers per sprint
 - Improved nonprofit digital visibility by 15% on average post-launch
 - Maintained RAID logs throughout each sprint to track risks and dependencies
