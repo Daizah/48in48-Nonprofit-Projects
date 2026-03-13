@@ -22,7 +22,7 @@
 
 | Project | Nonprofit Type | Team Size | Delivery Status |
 |---|---|---|---|
-| Project 1 | [Abundant Well Foundation] | [3] volunteers | On Time |
+| Project 1 | Abundant Well Foundation | [3] volunteers | On Time |
 | Project 2 | [Nonprofit Name] | [X] volunteers | On Time |
 | Project 3 | [Nonprofit Name] | [X] volunteers | On Time |
 | Project 4 | [Nonprofit Name] | [X] volunteers | On Time |
